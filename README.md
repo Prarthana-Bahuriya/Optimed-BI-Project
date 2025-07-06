@@ -84,27 +84,6 @@ The Power BI solution is built upon a robust Star Schema data model, designed fo
 
 This structure ensures efficient querying and allows for flexible slicing and dicing of data across various dimensions.
 
-## Getting Started
-
-To view and interact with the Power BI dashboards:
-
-1. **Clone this repository:**
-
-   ```
-   git clone [https://github.com/YourUsername/Optimed-BI-Project.git](https://github.com/YourUsername/Optimed-BI-Project.git)
-   ```
-
-2. **Navigate to the project directory:**
-
-   ```
-   cd Optimed-BI-Project
-   ```
-
-3. **Download and Install Power BI Desktop:** If you don't have it already, you can download Power BI Desktop from the official Microsoft website.
-
-4. **Open the Power BI file:** Locate the `.pbix` file (e.g., `Optimed_BI_Project.pbix`) in the cloned repository and open it with Power BI Desktop.
-
-5. **Refresh Data (if necessary):** Depending on the data source configuration, you might need to refresh the data to ensure you're viewing the latest information.
 
 ## Future Enhancements
 
